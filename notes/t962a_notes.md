@@ -67,6 +67,7 @@ New fan plan: OA109AP-11/22-1WB
 DC option: https://www.digikey.com/en/products/filter/fans/dc-brushless-fans-bldc/217?s=N4IgjCBcoCwGxVAYygMwIYBsDOBTANCAPZQDaIMADHABwwDMIAuoQA4AuUIAyuwE4BLAHYBzEAF9CYAJyNoIFJAw4CxMuGk0amkFM2yATLo0B2EwZjM2nSD37CxkkAYCsR%2BYuV5CJSOQOU9PQGEIQhYDSULlYgHFy8gqIShAC07shQ-ACuqr7k0UziRUA
 
 Power supply option (maybe a bad idea? Maybe triac control is good enough?)
+TUHS25F24 - https://www.digikey.com/en/products/detail/cosel-usa-inc/TUHS25F24/7044913
 
 
 ************************************************************************
